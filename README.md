@@ -35,10 +35,16 @@ Ao ativar a extensão pela Blip Store, ela deverá ser instalada no bot [ROUTER]
 
 - 1 - Clicar em Ativar Extensão
 
+![image](https://github.com/user-attachments/assets/e9558908-b956-4622-aeca-d6c370d71fbe)
+
 - 2 - Depois de Ativado, clique no “Clique aqui” para ir para a loja do Google Chrome
 
+![image](https://github.com/user-attachments/assets/6646ccc2-2f8b-4b74-b829-a1e3fd16f686)
 
 - 3 - Clicar em “Usar no Chrome”
+
+![image](https://github.com/user-attachments/assets/bce3372c-fcf9-4acc-a3b6-cf50a4936b93)
+
 
 #4. Exemplos de uso 
 

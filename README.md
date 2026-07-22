@@ -1,65 +1,59 @@
 ![WhatsApp Image 2024-01-15 at 10 46 51](https://github.com/Wilkor/doc-plugin-fura-fila/assets/34819624/acaf6e2b-c51c-435d-ae54-becbc8fe0b47)
 
+# Como bloquear termos ofensivos no BlipDesk com a extensão HateCheck
 
+A extensão **HateCheck** monitora e bloqueia automaticamente mensagens com termos ofensivos ou palavras de baixo calão digitadas por atendentes no BlipDesk antes que cheguem ao cliente, gerando relatórios de incidentes para os gestores.
 
-# Como utilizar a extensão HateCheck
+**Palavras-chave:** HateCheck, Bloqueio de Palavrões, Qualidade no Atendimento, BlipDesk, Compliance, Anti-Ofensa
 
-Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua extensão:
+---
 
- - Ao lado de Home na tela principal, clique em Blip Store, depois no menu lateral, clique em extensões;
- - Procure por **HateCheck** e clique em ativar **(Instalar em seu bot Router/Roteador)**;
- - Após a instalação da extensão, siga os passos abaixo;
+### 1. Vídeo demonstrativo
+Assista à demonstração prática diretamente no seu ambiente BlipDesk após a instalação da extensão.
 
-# 1. Introdução 
+*(Confira o bloqueio imediato e alerta ao atendente durante o atendimento)*
 
-A extensão HateCheck foi desenvolvida para prevenir que atendentes com comportamento inadequado enviem mensagens com palavras ofensivas aos clientes, protegendo a reputação da marca e garantindo uma comunicação profissional e respeitosa. A extensão é gratuita e está disponível para instalação via Blip Store e Google Chrome.
+### 2. Introdução
+A **HateCheck** previne que comportamentos inadequados de atendentes afetem a reputação da empresa. Ao identificar termos ofensivos, o envio é impedido e um alerta é emitido para o atendente reformular a resposta. A extensão é gratuita.
 
-Por exemplo: Se um atendente tentar enviar uma mensagem contendo palavrões, a extensão bloqueará o envio automaticamente. Além disso, um relatório será gerado contendo o e-mail do atendente e a mensagem bloqueada.
+### 3. Funcionalidades
+A **HateCheck** oferece as seguintes funcionalidades:
+- **Bloqueio Automático em Tempo Real**: Impede o envio de mensagens com palavras ofensivas antes do envio.
+- **Relatório Automático de Incidentes**: Registro de ocorrências com o e-mail do atendente e o texto bloqueado.
+- **Dicionário Abrangente**: Validação com lista pré-definida contendo ampla variedade de termos de baixo calão.
+- **Proteção da Imagem da Marca**: Garante a cordialidade no atendimento humano.
 
+A extensão **HateCheck** é suportada em todos os canais do BlipDesk (via Chrome Extension).
 
-# 2. Como funciona?
- 
- 
-A HateCheck oferece as seguintes funcionalidades principais:
-       
-Bloqueio de mensagens que contenham palavras ofensivas antes que sejam enviadas para os clientes.
-Geração automática de relatórios com o e-mail do atendente e a mensagem ofensiva que ele tentou enviar.
-Prevenção de mensagens inapropriadas, protegendo a imagem da empresa.
+### 4. Instalação e Configuração
+Após ativar a extensão através da Blip Store, ela deve ser instalada no bot Router/Roteador.
 
-# Canais suportados:
-- Todos
-
-#3. Instalação e configuração
-
-Ao ativar a extensão pela Blip Store, ela deverá ser instalada no bot [ROUTER]. Após sua ativação, você deverá:
-
-- 1 - Clicar em Ativar Extensão
+#### Passo a passo de Instalação:
+1. Na tela principal do Blip, acesse **Blip Store** → menu lateral **Extensões** → pesquise por **HateCheck** → clique em **Ativar (Instalar em seu bot Router/Roteador)**;
+2. Clique no botão **Ativar Extensão**:
 
 ![image](https://github.com/user-attachments/assets/e9558908-b956-4622-aeca-d6c370d71fbe)
 
-- 2 - Depois de Ativado, clique no “Clique aqui” para ir para a loja do Google Chrome
+3. Na tela de confirmação, clique no link **"Clique aqui"** para ir para a loja do Google Chrome:
 
 ![image](https://github.com/user-attachments/assets/6646ccc2-2f8b-4b74-b829-a1e3fd16f686)
 
-- 3 - Clicar em “Usar no Chrome”
+4. Na Chrome Web Store, clique em **Usar no Chrome**:
 
 ![image](https://github.com/user-attachments/assets/bce3372c-fcf9-4acc-a3b6-cf50a4936b93)
 
+### 5. Exemplos de Uso e Observações
 
-# 4. Exemplos de uso 
+#### Cenário de Exemplo:
+Um grande e-commerce implementa a extensão HateCheck para garantir que seus atendentes mantenham a cordialidade. Um dos atendentes tenta enviar uma mensagem contendo uma palavra ofensiva. A mensagem é bloqueada, o atendente recebe um aviso para reescrever e o incidente é registrado em um relatório para avaliação do gestor.
 
-Cenário: Um grande e-commerce implementa a extensão HateCheck para garantir que seus atendentes mantenham a cordialidade em todas as interações com os clientes. Um dos atendentes, frustrado com um cliente, tenta enviar uma mensagem contendo uma palavra ofensiva.
-Como a extensão atua: A mensagem não é enviada e o atendente recebe um alerta para reformular sua resposta. Um relatório é gerado automaticamente com os detalhes do incidente, permitindo que o gestor possa intervir se necessário.
-Este exemplo demonstra como a extensão ajuda a manter a qualidade do atendimento e protege a marca de possíveis reclamações devido a comportamentos inadequados.
-
-# 5. Suporte 
-
-Em caso de dúvidas ou se encontrar algum problema com a extensão, entre em contato conosco pelo email contato@pontoparse.net ou no número 1199484-4060. 
-
-# 6. Vídeo demonstrativo
-
-Aqui vamos incluir os vídeos que você enviar, de acordo com a documentação. Para mais informações, acesse a documentação oficial da extensão
-
-# 7. Observação
-
+#### Observação Técnica:
 Estamos fazendo a validação com palavras pré-definidas, mas que abrangem uma grande variedade de palavras de baixo calão.
+
+### 6. Suporte
+Em caso de dúvidas ou se encontrar algum problema com a extensão, entre em contato conosco:
+
+- **E-mail**: contato@wconsulting.tech
+- **Telefone/WhatsApp**: 1191628-2384
+
+

@@ -9,9 +9,8 @@ A extensão **HateCheck** monitora e bloqueia automaticamente mensagens com term
 ---
 
 ### 1. Vídeo demonstrativo
-Assista à demonstração prática diretamente no seu ambiente BlipDesk após a instalação da extensão.
+Esta extensão não possui vídeos ainda.
 
-*(Confira o bloqueio imediato e alerta ao atendente durante o atendimento)*
 
 ### 2. Introdução
 A **HateCheck** previne que comportamentos inadequados de atendentes afetem a reputação da empresa. Ao identificar termos ofensivos, o envio é impedido e um alerta é emitido para o atendente reformular a resposta. A extensão é gratuita.
